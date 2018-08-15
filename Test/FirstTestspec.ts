@@ -6,7 +6,7 @@ describe( "Going to start first test.", () => {
     it("it should pass with no problem", () => {
 
         browser.get('http://localhost:8808/');
-
+        browser.get("xuz");
         
 
         //let a = 12;
